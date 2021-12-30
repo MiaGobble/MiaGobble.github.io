@@ -83,7 +83,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 a {
-	color: #a74dca;
+	color: #c03a6d;
 	text-decoration: none;
 }
 .wrapper {
@@ -240,7 +240,7 @@ header nav ul li a:hover{
 #service .bottomline{
 	height:4px;
 	width:88px;
-	background:#14a58c;
+	background:#c03a6d;
 	display:block;
 	margin:0 auto;
 }
@@ -435,9 +435,9 @@ header nav ul li a:hover{
 }
 /* Button 2 */
 .btn-21 {
-	background: #17c2a4;
+	background: #c03a6d;
 	color: #fff;
-	box-shadow: 0 6px #14a58c;
+	box-shadow: 0 6px #8b2c51;
 	-webkit-transition: none;
 	-moz-transition: none;
 	transition: none;
