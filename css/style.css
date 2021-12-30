@@ -227,7 +227,7 @@ header nav ul li a:hover{
 /*----SERVICES----*/
 #service{
 	padding:100px 0 120px;
-	background:#17c2a4;
+	background:#c03a6d;
 }
 #service h2{
 	font-size:42px;
@@ -529,7 +529,7 @@ header nav ul li a:hover{
 #contact{
 	padding:100px 0 100px;
 	text-align:	center;
-	background:#3c5499;
+	background:#c03a6d;
 }
 #contact h2{
 	font-size:42px;
@@ -542,7 +542,7 @@ header nav ul li a:hover{
 #contact .bottomline{
 	height:4px;
 	width:88px;
-	background:#273a71;
+	background:#c03a6d;
 	display:block;
 	margin:0 auto;
 }
@@ -736,7 +736,7 @@ if it's not present, don't show loader */
  width: 100%;
  height: 100%;
  z-index: 9999;
- background: url(../images/star.png) center no-repeat #87509c;
+ background: url(../images/star.png) center no-repeat #faabcb;
  
 }
 
