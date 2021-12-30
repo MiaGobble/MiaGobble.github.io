@@ -83,7 +83,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 a {
-	color: #507cbe;
+	color: #a74dca;
 	text-decoration: none;
 }
 .wrapper {
@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5 {
 
 header{
 	padding:55px 0 5px;
-	background-color:#87509c;
+	background-color:#972fac;
 	color:#ffffff;
 	position:fixed;
 	width:100%;
