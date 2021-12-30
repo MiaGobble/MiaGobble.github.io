@@ -375,7 +375,7 @@ header nav ul li a:hover{
 #portfolio{
 	padding:100px 0 115px;
 	text-align:	center;
-	background:#ffdd99;
+	background:#faabcb;
 }
 #portfolio h2{
 	font-size:42px;
@@ -678,7 +678,7 @@ header nav ul li a:hover{
 /*----FOOTER----*/
 footer{
 	padding:45px 0;
-	background:#344b8e;
+	background:#402b33;
 	text-align:center;
 }
 footer ul li{
@@ -696,7 +696,7 @@ footer ul li a:hover{
 	
 }
 footer p{
-	font-size:16px;
+	font-size:12px;
 	line-height:24px;
 	color:#ffffff;
 	margin-top:20px;
